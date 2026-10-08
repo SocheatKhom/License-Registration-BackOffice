@@ -1,0 +1,6 @@
+export const LICENSE_STATUS = Object.freeze({
+  ACTIVE: 'ACTIVE',
+  SUSPENDED: 'SUSPENDED',
+  EXPIRED: 'EXPIRED',
+  REVOKED: 'REVOKED',
+})
